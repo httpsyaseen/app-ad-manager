@@ -1,4 +1,7 @@
 {
-  "showAd": false,
-  "instaUrl": "https://2okx7uit0m.execute-api.us-east-1.amazonaws.com/api/resolve/"
+  "downloadInsta": true,
+  "downloadFacebook": true,
+  "downloadYoutube": true,
+  "serverUrl": "https://2okx7uit0m.execute-api.us-east-1.amazonaws.com/api/resolve/",
+  "showAds": true
 }
