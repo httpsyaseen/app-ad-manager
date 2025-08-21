@@ -1,3 +1,5 @@
 {
-  "showAd": true
+  "appOpen":true,
+  "inter":true,
+  "banner":true
 }
