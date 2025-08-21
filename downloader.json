@@ -2,6 +2,6 @@
   "downloadInsta": true,
   "downloadFacebook": true,
   "downloadYoutube": true,
-  "serverUrl": "https://2okx7uit0m.execute-api.us-east-1.amazonaws.com/api/resolve/",
+  "serverUrl": "https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-17c30763-8037-45f0-bab5-530da6ca00b0/instadl/resolve",
   "showAds": false
 }
