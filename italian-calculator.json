@@ -1,5 +1,5 @@
 {
-  "appOpen":true,
-  "inter":true,
-  "banner":true
+  "appOpen":false,
+  "inter":false,
+  "banner":false
 }
